@@ -3,10 +3,18 @@
 O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**.
 
 ### Requisitos funcionais - Front-end
+
 - [x] O organizador pode visualizar a lista de participantes;
 - [x] O organizador pode buscar um participante através de um filtro;
 
 <img src="./src/assets/Screenshot 2024-04-09 at 10.28.14.png" />
+
+### Tecnologias
+- [x] REACTJS
+- [x] VITE
+- [x] TYPESCRIPT
+- [x] TAILWIND
+- [x] Bibliotecas: Lucide, Day.js
 
 ## Documentação da API (Swagger)
 
